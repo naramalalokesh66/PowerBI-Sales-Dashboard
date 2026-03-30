@@ -11,7 +11,7 @@ This dashboard provides insights into:
 - Geo-wise Sales Distribution
 
  📷 Dashboard Preview
-     ![Dashboard Preview]("C:\Users\LENOVO\OneDrive\Pictures\Screenshots\dashboard.png")
+     ![Dashboard Preview](dashboard.png)
     
 
  🔧 Tools Used
