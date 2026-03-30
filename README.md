@@ -25,4 +25,4 @@ This dashboard provides insights into:
 - Sales trend over time
 
  📁 File
-- [Download Power BI File](Sales by Shipments Dashboard.pbix)
+- [Download Power BI File](Sales%20by%20Shipments%20Dashboard.pbix)
