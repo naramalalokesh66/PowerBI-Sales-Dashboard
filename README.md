@@ -1,2 +1,27 @@
 # PowerBI-Sales-Dashboard
 Sales dashboard with KPIs, profit analysis, and product insights
+ 📊 Power BI Sales Dashboard
+
+ 📌 Overview
+This dashboard provides insights into:
+- Total Sales Amount
+- Profit %
+- Shipments & Boxes
+- Top Products
+- Geo-wise Sales Distribution
+
+ 📷 Dashboard Preview
+     
+
+ 🔧 Tools Used
+- Power BI
+- DAX
+- Data Modeling
+
+ 📈 Key Insights
+- Top performing products identified
+- Profit margin analysis
+- Sales trend over time
+
+ 📁 File
+- Sales by Shipments Dashboard.pbix
